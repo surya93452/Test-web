@@ -1,0 +1,35 @@
+* {
+    background-color: black;
+    color: aliceblue;
+  }
+  .co h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+  }
+.co p{
+    display: flex;
+    font-size: 30px;
+}
+.co button {
+    padding: 10px 20px;
+    background-color: #24a707;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: background-color 0.3s;
+    border-radius: 25pt;
+    width: 100px;
+    font-size: 15px;
+  }
+  .btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .co img{
+    width: 35px;
+    height: 30px;
+  }
